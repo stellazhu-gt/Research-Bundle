@@ -1,0 +1,5 @@
+0:entertainment
+1:business
+2:sport
+3:politics
+4:tech
